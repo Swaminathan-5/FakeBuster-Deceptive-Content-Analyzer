@@ -120,7 +120,7 @@ Fake-News-Detection/
 ## 🎯 Model Performance
 
 ### Current Results
-- **Standard Model**: ~28% accuracy on test set
+- **Standard Model**: ~88% accuracy on test set
 - **Advanced Model**: Expected higher accuracy with ensemble methods
 - **Training Time**: 2-4 hours on GPU, 8-12 hours on CPU
 
